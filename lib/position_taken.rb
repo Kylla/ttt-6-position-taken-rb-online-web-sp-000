@@ -1,2 +1,2 @@
-def postion_taken
+def position_taken
 end
