@@ -1,3 +1,3 @@
 def position_taken?(board, index)
-  board = [0]
+  if board[0]
 end
